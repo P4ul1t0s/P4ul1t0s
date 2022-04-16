@@ -1,10 +1,13 @@
 # Hello! I'am Paulo
+
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4ul1t0s&private=true&show_icons=true&theme=dark&)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=P4ul1t0s&private=true&show_icons=true&theme=dark&"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4ul1t0s&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
 ##
-
 
 <section>
 <a href="www.linkedin.com/in/paulo-mafra-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
